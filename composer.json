@@ -1,6 +1,7 @@
 {
 	"name": "najidev/permutation",
 	"type": "library",
+	"license": "MIT",
 	"autoload": {
 		"psr-4": { "NajiDev\\Permutation\\": "src/" }
 	},
